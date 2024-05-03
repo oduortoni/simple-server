@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#screen {
+    font-family: tahoma;
+    background: #ccf81eb3;
+    color: rgb(4, 66, 152);
+    min-height: 100vh;
+}
