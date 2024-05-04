@@ -4,8 +4,16 @@ In this project, I was exploring the concept of web servers. Within it, I tried 
 
 ## Usage
 
-		$git clone 
-		$cd 
+Start the server on your terminal or commandline
+
+	$git clone https://github.com/oduortoni/simple-server
+	$cd simple server
+	$go run .
+
+Open Your browser and nvigate to
+	
+	http://localhost:9000
+
 
 ## languges
 
