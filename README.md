@@ -10,7 +10,7 @@ Start the server on your terminal or commandline
 	$cd simple server
 	$go run .
 
-Open Your browser and nvigate to
+Open Your browser and navigate to the following url:
 	
 	http://localhost:9000
 
