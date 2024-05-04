@@ -17,8 +17,8 @@ func main() {
 	fmt.Printf("Server listening on %s", url)
 
 	// serve static files
-	css := http.FileServer(http.Dir("./static"))
-	http.Handle("/static/", http.StripPrefix("/static/", css))
+	static := http.FileServer(http.Dir("./static"))
+	http.Handle("/static/", http.StripPrefix("/static/", static))
 
 	// routes
 	http.HandleFunc("/", server.Index)
