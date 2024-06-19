@@ -15,6 +15,19 @@ Open Your browser and navigate to the following url:
 	http://localhost:9000
 
 
+# Configuration
+
+Within the root folder, there is a config.json file. This file is provided in order to help manage common server settings. There are default settings associated with the server. However, within the config file there are entries that can be used to change various settings; included but notlimited to:
+
++ server host name
++ server port
++ application name
++ static file folder
++ template files (Todo)
+
+# Purpose
+The server will provide a very simple way to create http programs. It is not a framework just a simpl boilerplate that helps organize any future projects. In the future, most repeatable htp functionality will be taken care of. All the user will need is to write their application within the app folder and forget about the details of how other things work.
+
 ## languges
 
 	GO
