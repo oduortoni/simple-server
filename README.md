@@ -7,8 +7,8 @@ In this project, I was exploring the concept of web servers. Within it, I tried 
 Start the server on your terminal or commandline
 
 	$git clone https://github.com/oduortoni/simple-server
-	$cd simple server
-	$go run .
+	$cd simple-server
+	$go run cmd/main.go
 
 Open Your browser and navigate to the following url:
 	

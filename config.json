@@ -1,0 +1,6 @@
+{
+	"appname": "odrserver",
+	"host": "localhost",
+	"port": 9000,
+	"static": "static"
+}
